@@ -1,0 +1,8 @@
+{
+  "name": "swdo Portal",
+  "description": "Comprehensive charity portal for donations, beneficiaries, members, users, and financial statements with dark/light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
